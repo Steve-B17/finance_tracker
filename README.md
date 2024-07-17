@@ -73,3 +73,10 @@ To get started with Finance Tracker, you'll need to have a basic understanding o
 7. **Contributing (Optional)**: If you plan to contribute to the project, follow any guidelines provided in the `CONTRIBUTING.md` file or the project's repository. Fork the repository, make your changes, and submit a pull request.
 
 By following these steps, you should be able to successfully run most Python projects hosted on GitHub. If you encounter specific issues or errors, refer to the project's issue tracker or community forums for help.
+![Screenshot from 2024-07-17 18-11-35](https://github.com/user-attachments/assets/fc15a8ec-f756-4748-a2f0-2bd0664cadba)
+![Screenshot from 2024-07-17 18-13-19](https://github.com/user-attachments/assets/c79eee79-0b1b-4a2e-9ace-cc6e04e9ed1a)
+![Screenshot from 2024-07-17 18-15-27](https://github.com/user-attachments/assets/b461b3c4-ed37-4d73-b9a2-a60daa26b491)
+![Screenshot from 2024-07-17 18-16-06](https://github.com/user-attachments/assets/ad07d4e2-58a2-4b09-b7c9-92e0aeacdefb)
+
+
+
